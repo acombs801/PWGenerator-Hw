@@ -1,0 +1,1 @@
+This is a basic Password Generator created with Javascript.
